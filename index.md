@@ -17,6 +17,13 @@ Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you fi
 ### CAN MACHINES GENERATE HUMANS? 🧬🤖
 
 - [Style-GAN paper](https//arxiv.org/abs/1812.04948)
+- [Article on Style-GAN easy to read](https://machinelearningmastery.com/introduction-to-style-generative-adversarial-network-stylegan/) 
+- [Video on how Style-GAN works](https://youtu.be/kSLJriaOumA)
+- 👉 [This person does not exist website](https://thispersondoesnotexist.com)
+- 🐈 [Genrated cat](https://thiscatdoesnotexist.com)
+- 🎨 [Generated art](https://thisartworkdoesnotexist.com)
+- 🐴 [Generated horse (This one is funny!)](https://thishorsedoesnotexist.com)
+
 
 
 
