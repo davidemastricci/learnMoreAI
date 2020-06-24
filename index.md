@@ -1,6 +1,7 @@
 # Welcome to Learn More AI 💚
 
 Here you will find all the resources to master all the topic treated on Instagram.
+
 Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you find any error.  
 
 ### Speak fluently like a... Robot 🤖
