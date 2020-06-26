@@ -5,8 +5,7 @@ Here you will find all the resources to master all the topic treated on Instagra
 
 Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you find any error. 
 
-## Attention mechanism on AI
-
+### Attention mechanism on AI
 
 - 🔎 [DeepMind video lesson on Attention and Transformer](https://www.youtube.com/watch?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&time_continue=916&v=AIiwuClvH6k&feature=emb_logo)
 
