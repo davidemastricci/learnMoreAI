@@ -9,7 +9,7 @@ Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you fi
 
 - [Video on one of the most famous RL algorithms](https://www.youtube.com/watch?v=aCEvtRtNO-M)
 - [A fascinating example of how RL works](https://www.youtube.com/watch?v=x4O8pojMF0w&feature=emb_logo)
-- [The Bible of Reinforcement Learning by S.Sutton](href="https://www.amazon.it/gp/product/0262039249/ref=as_li_tl?ie=UTF8&camp=3414&creative=21718&creativeASIN=0262039249&linkCode=as2&tag=davidemastric-21&linkId=d27a21919c365a2ee28777753ffae7fe")
+- [The Bible of Reinforcement Learning by S.Sutton](https://www.amazon.it/gp/product/0262039249/ref=as_li_tlie=UTF8&camp=3414&creative=21718&creativeASIN=0262039249&linkCode=as2&tag=davidemastric-21&linkId=d27a21919c365a2ee28777753ffae7fe)
 
 ### Attention mechanism on AI
 
