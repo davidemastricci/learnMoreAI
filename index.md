@@ -5,7 +5,7 @@ Here you will find all the resources to master all the topic treated on Instagra
 
 Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you find any error. 
 
-### Hide and Seek with AI 
+### Hide and Seek with AI 🧠🤖
 
 - [OpenAI article on Hide and Seek](https://openai.com/blog/emergent-tool-use/)
 - [OpenaAI peper](https://arxiv.org/pdf/1909.07528.pdf)
