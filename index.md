@@ -5,7 +5,13 @@ Here you will find all the resources to master all the topic treated on Instagra
 
 Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you find any error. 
 
-## How Robots Learns 🧠🤖
+### Hide and Seek with AI 
+
+- [OpenAI article on Hide and Seek](https://openai.com/blog/emergent-tool-use/)
+- [OpenaAI peper](https://arxiv.org/pdf/1909.07528.pdf)
+
+
+### How Robots Learns 🧠🤖
 
 - [Video on one of the most famous RL algorithms](https://www.youtube.com/watch?v=aCEvtRtNO-M)
 - [A fascinating example of how RL works](https://www.youtube.com/watch?v=x4O8pojMF0w&feature=emb_logo)
