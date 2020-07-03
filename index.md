@@ -5,6 +5,11 @@ Here you will find all the resources to master all the topic treated on Instagra
 
 Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you find any error. 
 
+### Data is the new Electricity
+
+- [A marvelous video on Tim's story and AI](https://www.youtube.com/watch?v=V5aZjsWM2wo&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=3&t=0s)
+- [Project Ephonia](https://sites.google.com/view/project-euphonia/)
+
 ### Hide and Seek with AI 🧠🤖
 
 - [OpenAI article on Hide and Seek](https://openai.com/blog/emergent-tool-use/)
