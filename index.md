@@ -8,6 +8,7 @@ Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you fi
 ### Why you should understand AI
 
 - [Rachel Thomas' TED talk](https://www.ted.com/talks/rachel_thomas_artificial_intelligence_needs_all_of_us)
+- [👆 Her project for free AI](https://www.fast.ai/about/)
 
 ### Data is the new Electricity
 
