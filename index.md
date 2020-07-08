@@ -5,6 +5,10 @@ Here you will find all the resources to master all the topic treated on Instagra
 
 Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you find any error. 
 
+### Why you should understand AI
+
+- [Rachel Thomas' TED talk](https://www.ted.com/talks/rachel_thomas_artificial_intelligence_needs_all_of_us)
+
 ### Data is the new Electricity
 
 - [A marvelous video on Tim's story and AI](https://www.youtube.com/watch?v=V5aZjsWM2wo&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=3&t=0s)
