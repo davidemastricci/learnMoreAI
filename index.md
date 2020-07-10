@@ -5,6 +5,12 @@ Here you will find all the resources to master all the topic treated on Instagra
 
 Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you find any error. 
 
+### How can we define the Intelligence ?
+
+- [A short TED video on Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c)
+- [Computing Machinery and Intelligence A.T. paper](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
+- [My favourite comic about Alan Turing's story- ITA🇮🇹 ](https://www.amazon.it/gp/product/8817060674/ref=as_li_tl?ie=UTF8&camp=3414&creative=21718&creativeASIN=8817060674&linkCode=as2&tag=davidemastric-21&linkId=52e49332a7c24fa2397f54505434031a)
+
 ### Why you should understand AI
 
 - [Rachel Thomas' TED talk](https://www.ted.com/talks/rachel_thomas_artificial_intelligence_needs_all_of_us)
