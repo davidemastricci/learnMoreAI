@@ -3,7 +3,12 @@
 Here you will find all the resources to master all the topic treated on Instagram.
 
 
-Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you find any error. 
+Feel free to [contact me](https://www.instagram.com/davide.mastricci/) if you find any error.
+
+### Recommendations Systems
+
+- [A Google free course on R.S.](https://developers.google.com/machine-learning/recommendation)
+
 
 ### How can we define the Intelligence ?
 
